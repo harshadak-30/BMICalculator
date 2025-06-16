@@ -30,7 +30,7 @@ The BMI Calculator is a sleek, interactive web application built using React JS 
 
 Clone the repository:
 
-git clone https://github.com/AkshadaKhairnar/BMI-calculator-using-React-JS.git
+git clone https://github.com/harshadak-30/BMI-calculator-using-React-JS.git
 
 Navigate to the project directory:
 
