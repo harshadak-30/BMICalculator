@@ -61,7 +61,5 @@ Reset to enter new values anytime.
 We welcome contributions! Feel free to fork this repository and submit a pull request with enhancements.
 
 
-👩‍💻 Author: Akshada Khairnar
-
 
 
